@@ -1,0 +1,20 @@
+h1{
+  font-family: Georgia;
+  }
+  
+  p{
+    font-family: Georgia;
+    font-size: 18px;
+    }
+  
+  ul{
+    font-family: Georgia;
+    font-size: 18px;
+  }
+  
+  #un
+  {
+    width:1px;
+    margin-left:auto;
+    margin-right: auto;
+  }
