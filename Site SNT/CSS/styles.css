@@ -1,0 +1,34 @@
+h1{
+  font-family: Georgia;
+  text-align: center;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+  p{
+    font-family: Georgia;
+    width: 1000px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 22px;
+    }
+  
+  ul{
+    font-family: Georgia;
+    font-size: 22px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  body{
+    background-color: yellow;
+  }
+
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
